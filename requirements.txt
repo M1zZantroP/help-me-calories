@@ -1,0 +1,6 @@
+requests>=2.25.1
+lxml>=4.6.3
+keyboard>=0.13.5
+selenium>=3.141.0
+bs4>=0.0.1
+beautifulsoup4>=4.9.3
